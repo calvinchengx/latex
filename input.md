@@ -15,7 +15,7 @@
 pipenv shell
 
 # creating README.md
-python -m readme2tex --username calvinchengx --project latex --nocdn --output README.md input.md
+python -m readme2tex --nocdn --pngtrick --output README.md input.md
 ```
 
 $\left(\frac{1}{\sqrt{x}}\right)$
