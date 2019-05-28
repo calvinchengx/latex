@@ -22,3 +22,5 @@ python -m readme2tex --nocdn --pngtrick --output README.md input.md --usepackage
 ```
 
 $\left(\frac{1}{\sqrt{x}}\right)$
+
+$$ \frac{n!}{k!(n - k)!} $$
