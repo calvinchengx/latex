@@ -18,7 +18,7 @@ pipenv shell
 pipenv install
 
 # creating README.md
-python -m readme2tex --nocdn --pngtrick --output README.md input.md
+python -m readme2tex --nocdn --pngtrick --output README.md input.md --usepackage tikz --add-git-hook
 ```
 
 $\left(\frac{1}{\sqrt{x}}\right)$
