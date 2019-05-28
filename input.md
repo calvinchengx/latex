@@ -6,7 +6,7 @@
   # macOS
   brew install cairo libxml2 libffi
 
-  pipenv --python 2.7.16 install -e git+https://github.com/leegao/readme2tex.git#egg=readme2tex
+  pipenv install
   ```
 
 ## Example script

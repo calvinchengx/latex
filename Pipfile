@@ -7,7 +7,6 @@ verify_ssl = true
 
 [packages]
 readme2tex = {editable = true,git = "https://github.com/leegao/readme2tex.git"}
-cairosvg = "*"
 
 [requires]
 python_version = "2.7"
