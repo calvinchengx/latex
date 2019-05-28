@@ -3,6 +3,9 @@
 ## Prerequisites
 
   ```
+  # dvisvgm and related dependencies (woff2, brotli)
+  ./build-dvisvgm.sh
+
   # macOS
   brew install cairo libxml2 libffi
 
