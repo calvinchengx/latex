@@ -8,14 +8,14 @@
 
   # macOS
   brew install cairo libxml2 libffi
-
-  pipenv install
   ```
 
 ## Example script
 
 ```
 pipenv shell
+
+pipenv install
 
 # creating README.md
 python -m readme2tex --nocdn --pngtrick --output README.md input.md
